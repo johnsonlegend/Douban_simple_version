@@ -10,6 +10,6 @@ A simple version for Douban website. Now the work is focused on movie subject.
 
 # Examples
 
-![Alt text](/example/button_score_hidden.jpg)
+![Alt text](button_score_hidden.png)
 
-![Alt text](/example/button_score_visible.jpg)
+![Alt text](button_score_visible.png)
